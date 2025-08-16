@@ -140,3 +140,6 @@ proba = rf.predict_proba(X_nuevo)[:,1]  # probabilidad de churn
 
 * Dataset de referencia tipo **Telco Customer Churn**.
 * Comunidad de **scikit‑learn** por las herramientas de modelado y evaluación.
+
+
+Link con los archivos .Json https://drive.google.com/file/d/1JUky0Ojvv1iYJFv87lwt-ByXxStUUps7/view?usp=sharing 
